@@ -1,5 +1,5 @@
 ---
-name: system-requirement-analyzer
+name: system-requirement-analyzer-v2
 label: 系统建设需求分析工具
 version: 2.0.0
 description: >
